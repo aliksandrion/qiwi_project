@@ -1,0 +1,11 @@
+setup.py
+currency/__init__.py
+currency/main.py
+currency/scripts/__init__.py
+currency/scripts/script.py
+currency_rates.egg-info/PKG-INFO
+currency_rates.egg-info/SOURCES.txt
+currency_rates.egg-info/dependency_links.txt
+currency_rates.egg-info/entry_points.txt
+currency_rates.egg-info/requires.txt
+currency_rates.egg-info/top_level.txt
